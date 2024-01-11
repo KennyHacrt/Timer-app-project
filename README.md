@@ -1,2 +1,1 @@
-# Timer-app-project
-Python 
+Python based 
